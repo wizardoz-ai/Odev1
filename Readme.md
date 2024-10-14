@@ -22,3 +22,4 @@ Bu projede aşağıdaki Python kütüphaneleri kullanılmıştır:
 
 - `Salary_dataset.csv`: Maaş ve deneyim yılı verilerini içeren dosya.
 - `lineer_regresyon.ipynb`: Jupyter Notebook dosyası. Verilerin yüklenmesi, modelin eğitilmesi ve değerlendirilmesi adımları bu dosyada bulunur.
+# Odev1
